@@ -1,0 +1,3 @@
+
+class TweetstormException(Exception):
+    pass

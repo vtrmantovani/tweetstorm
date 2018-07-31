@@ -1,0 +1,9 @@
+*.py[cod]
+*.DS_Store
+.venv
+.idea
+__pycache__
+.coverage
+.tox
+.pytest_cache
+coverage.xml
